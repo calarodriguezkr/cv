@@ -8,7 +8,6 @@ body {
 
 /*alt color palette https://colorhunt.co/palette/f4f9f4c4e3cb8aae92616161
 alt btn color palette https://colorhunt.co/palette/1fab8962d2a29df3c4d7fbe8*/
-
 h1 {
   font-size: 5.625rem;
   font-weight: 300;
@@ -49,7 +48,7 @@ hr {
 
 .middle-container {
   background-color: #F0F2F0;
-  margin: 100px 0;
+  margin: 100px 0 0;
 }
 
 .profile-img {
@@ -96,6 +95,10 @@ hr {
 
 p {
   line-height: 2;
+}
+
+.contact-me {
+  padding-bottom: 100px;
 }
 
 .contact-paragraph {
