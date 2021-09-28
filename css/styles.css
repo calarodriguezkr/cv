@@ -31,7 +31,7 @@ h3 {
 }
 
 .top-container {
-  background: url(file:///C:/Users/Administrator/Desktop/cala/Cursos/The%20Complete%202021%20Web%20Developer%20Bootcamp/Web%20Development/CSS%20-%20My%20Site/images/00.jpg);
+  background: url(../images/00.jpg);
   background-color: #8BBF8A;
   background-size: cover;
   position: relative;
