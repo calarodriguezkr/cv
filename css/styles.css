@@ -1,0 +1,149 @@
+body {
+  color: #40514E;
+  background-color: #F0F2F0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+/*alt color palette https://colorhunt.co/palette/f4f9f4c4e3cb8aae92616161
+alt btn color palette https://colorhunt.co/palette/1fab8962d2a29df3c4d7fbe8*/
+
+h1 {
+  font-size: 5.625rem;
+  font-weight: 300;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  color: #0E260A;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: #0E260A;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #3B7339;
+}
+
+.top-container {
+  background: url(file:///C:/Users/Administrator/Desktop/cala/Cursos/The%20Complete%202021%20Web%20Developer%20Bootcamp/Web%20Development/CSS%20-%20My%20Site/images/00.jpg);
+  background-color: #8BBF8A;
+  background-size: cover;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 500px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #8BBF8A;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.middle-container {
+  background-color: #F0F2F0;
+  margin: 100px 0;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 15%;
+  height: 15%;
+}
+
+.profile-paragraph {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.link:hover {
+  color: #8BBF8A
+}
+
+.food-img {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.study-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+p {
+  line-height: 2;
+}
+
+.contact-paragraph {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #8BBF8A;
+  background-image: linear-gradient(to bottom, #8BBF8A, #3B7339);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3B7339;
+  background-image: linear-gradient(top, #3B7339, #0E260A);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #8BBF8A;
+  padding: 50px 0 20px;
+}
+
+a {
+  color: #3B7339;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D6F2D5;
+}
+
+.footer-link {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.copyright {
+  color: #D6F2D5;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
